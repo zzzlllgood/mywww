@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zzzlllgood/mywww/issues"
   },
-  "homepage": "https://github.com/zzzlllgood/mywww#readme"
+  "homepage": "https://github.com/zzzlllgood/mywww#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
 }
